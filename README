@@ -1,0 +1,25 @@
+***********************************
+Programa en ANSI-C holodomor.c
+Que sirve para realizar un volcado en
+memoria de una palabra, con el fin de
+establecer su dirección de locaclización.
+así como el desplazamiento letra a letra.
+Tambien realiza un dump de la parte de memoria
+donde se localiza, para estudiar su posición.
+Con el fin de poder apreciar el número
+de proceso PID,hacemos una llamada
+al comando (pmap  -d).
+**************************************
+Este programa ha sido realizado en.
+LINUX Ubuntu 20.04.4 LTS.
+Bajo el standard ANSI C. 
+********************************
+Compilar:
+gcc holodomor.c -o holodomor
+**********************************
+Cuestiones:
+idusdruida51@gmail.com
+-----------------------------------
+
+
+
